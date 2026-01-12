@@ -4,7 +4,7 @@ PRODID:-//ChatGPT//vCard 3.0//EN
 FN:Adriam Lobaina
 N:Lobaina;Adriam;;
 ORG:Phoenix American Companies
-TITLE:IT Director
+TITLE:Senior IT Director
 TEL;TYPE=work,voice:+1-305-266-5665 
 TEL;TYPE=cell,voice:+1-305-903-8449
 EMAIL;TYPE=INTERNET,work:alobaina@phoenixec.com
@@ -13,3 +13,4 @@ ADR;TYPE=work:;;6303 Waterford District Drive;Miami;FL;33126;USA
 REV:20250918T135246Z
 
 END:VCARD
+
